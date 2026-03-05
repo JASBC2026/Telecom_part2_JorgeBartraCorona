@@ -104,7 +104,7 @@ Algunos hallazgos importantes:
 * Estos hallazgos permiten diseñar estrategias específicas de retención.
 
 
-# ✅ Conlusión
+# ✅ Conclusión
 
 El análisis de la Regresión Logística muestra que la antigüedad del cliente (tenure) es uno de los factores más importantes para reducir la cancelación: cuanto más tiempo lleva un cliente, menos probable es que abandone el servicio.
 
